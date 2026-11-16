@@ -71,7 +71,7 @@ body {
 
 .letter {
     margin:auto;
-    width: 400px;
+    width: 800px;
     align-items: center;
     transition: width 0.4s ease;
 }
